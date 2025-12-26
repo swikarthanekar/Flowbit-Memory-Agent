@@ -1,0 +1,4 @@
+node_modules
+memoryStore.json
+dist
+.env
